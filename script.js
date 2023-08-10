@@ -21,8 +21,8 @@ setSize.addEventListener('click', () => {
     for (let i = 0; i < gridSize*gridSize; i++) {
         const div = document.createElement('div');
         div.classList.add('cell');
-        div.style.width = String(600/gridSize - 2) + 'px';
-        div.style.height = String(600/gridSize - 2) + 'px';
+        div.style.width = String(600/gridSize ) + 'px';
+        div.style.height = String(600/gridSize ) + 'px';
             
         container.appendChild(div);
 

@@ -14,9 +14,9 @@ h1 {
     width: 600px;
     height: 600px;
 }
-.container div {
+/* .container div {
     border: 1px solid black;
-}
+} */
 .hovered {
     background-color: black;
 }
