@@ -1,0 +1,22 @@
+* {
+    font-family: 'Open Sans', sans-serif;
+}
+body {
+    background-color: #181818;
+}
+h1 {
+    color: antiquewhite;
+}
+.container {
+    background-color: white;
+    display: flex;
+    flex-wrap: wrap;
+    width: 600px;
+    height: 600px;
+}
+.container div {
+    border: 1px solid black;
+}
+.hovered {
+    background-color: black;
+}
