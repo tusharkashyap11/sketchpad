@@ -1,2 +1,2 @@
 # sketchpad
-A Sketch Pad app used to create pixel art 
+A Sketch Pad app used for creating pixel art. 
